@@ -2,19 +2,19 @@ pipeline {
     agent any
 
     stages {
-        stage('Build') {
+        stage('Deepak') {
             steps {
                 echo 'Build Successfully'
             }
         }
         
-        stage('test') {
+        stage('Aman') {
             steps {
                 echo 'Testing has been done'
             }
         }
         
-        stage('Deploy') {
+        stage('Abhi') {
             steps {
                 echo 'Deployed successfully'
             }
