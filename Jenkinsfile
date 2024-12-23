@@ -10,7 +10,7 @@ pipeline {
         
         stage('Aman') {
             steps {
-                echo 'Testing has been done'
+                echo 'Hello Aman'
             }
         }
         
